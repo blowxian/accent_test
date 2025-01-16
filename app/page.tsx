@@ -20,8 +20,8 @@ export default function Home() {
                         our platform provides the tools and expertise you need.
                     </p>
                     <p>
-                        Ready to transform your accent? Start with our <a href="https://accent-test.com" target="_blank" 
-                        rel="noopener noreferrer" className="text-yellow-500 hover:text-yellow-400 underline">professional accent analysis</a>.
+                        Ready to transform your accent? Start with our <a href="https://accent-test.com" 
+                        className="text-yellow-500 hover:text-yellow-400 underline">professional accent analysis</a>.
                     </p>
                 </section>
 
@@ -68,19 +68,19 @@ export default function Home() {
                     </p>
                     <ul className="list-disc pl-6 space-y-2">
                         <li>
-                            <a href="https://accent-test.com" target="_blank" rel="noopener noreferrer" 
+                            <a href="https://accent-test.com" 
                             className="text-yellow-500 hover:text-yellow-400 underline">
                                 Professional Accent Training & Analysis
                             </a>
                         </li>
                         <li>
-                            <a href="https://accentguesser.co" target="_blank" rel="noopener noreferrer" 
+                            <a href="https://accentguesser.co" 
                             className="text-yellow-500 hover:text-yellow-400 underline">
                                 Personalized Accent Coaching
                             </a>
                         </li>
                         <li>
-                            <a href="https://boldvoice.com" target="_blank" rel="noopener noreferrer" 
+                            <a href="https://boldvoice.com" 
                             className="text-yellow-500 hover:text-yellow-400 underline">
                                 Expert Accent Coaching Platform
                             </a>
